@@ -6,7 +6,7 @@
 
 Template ini dibuat dengan menggunakan LaTeX, template ini digunakan untuk laporan praktikum workshop telematika.
 
-> file PDF Laporan dari template ini bisa dilihat di [sini](https://zer0-911.github.io/template_laporan_praktikum_wortel/laporan.pdf)
+> file PDF Laporan dari template ini bisa dilihat di [sini](https://b401-robotics.github.io/template_laporan_praktikum_wortel/laporan.pdf)
 
 Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/tmgjqzhrkynk#be528b).
 
@@ -50,7 +50,7 @@ Setelah instalasi, Anda dapat memulai dengan membuat file baru dengan ekstensi `
 
 ## Cara Menggunakan
 
-1. Clone repository ini dengan menggunakan perintah `git clone https://github.com/zer0-911/template-laporan-workshop-telematika.git` atau klik `use this template`
+1. Clone repository ini dengan menggunakan perintah `git clone https://github.com/b401-robotics/template-laporan-workshop-telematika.git` atau klik `use this template`
 
 2. Buka folder repository ini dengan VSCode.
 
