@@ -6,7 +6,7 @@
 
 Template ini dibuat dengan menggunakan LaTeX, template ini digunakan untuk laporan praktikum workshop telematika.
 
-> file PDF Laporan dari template ini bisa dilihat di [sini](https://b401-robotics.github.io/template_laporan_praktikum_wortel/laporan.pdf)
+> file PDF Laporan dari template ini bisa dilihat di [sini](https://b401-robotics.github.io/template-workshop-telematika/laporan.pdf)
 
 Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/tmgjqzhrkynk#be528b).
 
