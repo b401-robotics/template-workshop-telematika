@@ -50,7 +50,7 @@ Setelah instalasi, Anda dapat memulai dengan membuat file baru dengan ekstensi `
 
 ## Cara Menggunakan
 
-1. Clone repository ini dengan menggunakan perintah `git clone https://github.com/b401-robotics/template-laporan-workshop-telematika.git` atau klik `use this template`
+1. Clone repository ini dengan menggunakan perintah `git clone https://github.com/b401-robotics/template-workshop-telematika.git`
 
 2. Buka folder repository ini dengan VSCode.
 
