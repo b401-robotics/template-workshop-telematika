@@ -21,7 +21,7 @@ jobs:
         run: mkdir dist && mv main.pdf dist/laporan.pdf
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
@@ -42,8 +42,8 @@ jobs:
       cancel-in-progress: false
     steps:
       - name: Configure Pages
-        uses: actions/configure-pages@v3.0.6
+        uses: actions/configure-pages@v5
 
       - name: Deploy to Pages
         id: deployment
-        uses: actions/deploy-pages@v2.0.4
+        uses: actions/deploy-pages@v4
