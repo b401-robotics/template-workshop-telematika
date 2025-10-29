@@ -8,7 +8,7 @@ Template ini dibuat dengan menggunakan LaTeX, template ini digunakan untuk lapor
 
 > file PDF Laporan dari template ini bisa dilihat di [sini](https://b401-robotics.github.io/template-workshop-telematika/laporan.pdf)
 
-Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/tmgjqzhrkynk#be528b).
+Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/bgcxnsmthwqy#078617).
 
 ## Panduan Instalasi LaTeX
 
